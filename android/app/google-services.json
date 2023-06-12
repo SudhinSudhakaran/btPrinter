@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570474683010",
+    "project_id": "bt-printer",
+    "storage_bucket": "bt-printer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570474683010:android:efc7d5a5c03f45c3cd329b",
+        "android_client_info": {
+          "package_name": "com.btprinter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570474683010-dhs2192nbrv7vo7mr949ph05vpshkb88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btprinter",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "570474683010-d44165immtqk0hel8hofsfio5cvjof39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ8BQ1YddqFiNS4TdvIR-JaaX-Dmp_-IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570474683010-d44165immtqk0hel8hofsfio5cvjof39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
